@@ -1,2 +1,0 @@
-# CardFlipper
-Created with CodeSandbox
